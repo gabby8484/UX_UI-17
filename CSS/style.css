@@ -1,0 +1,30 @@
+.class{
+    display: inline-block;
+    vertical-align: top;}
+ 
+.class{ display:logo;
+    width: 23px;
+    padding: 1px;}
+    
+    .Navigation {
+        width: 73px;
+        padding: 1%;}
+
+        .navigation ul{
+            width: 50px;
+            margin-left: auto;}
+       
+            .logo{text-align: center;}
+
+            .herolmg{height: 600px;
+                padding: 25px;}
+    
+.content{width: 500px;
+margin: 0 auto;}
+
+.footer{background-color: #373738;}
+.footer ul{display: inline-block;
+vertical-align: top;}
+
+
+
